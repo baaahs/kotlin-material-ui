@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.subroh0508.kotlinmaterialui</groupId>
+  <artifactId>lab</artifactId>
+  <version>0.7.0-baaahs</version>
+  <packaging>pom</packaging>
+  <name>Kotlin-Material-UI/Lab</name>
+  <description>Kotlin Wrapper Library of Material-UI</description>
+  <url>https://github.com/subroh0508/kotlin-material-ui</url>
+  <licenses>
+    <license>
+      <name>The MIT Licenses</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>subroh0508</id>
+      <name>Subroh Nishikori</name>
+      <email>in-the-n@me-of.love</email>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://github.com/subroh0508/kotlin-material-ui</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>net.subroh0508.kotlinmaterialui</groupId>
+      <artifactId>core</artifactId>
+      <version>0.7.0-baaahs</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-js</artifactId>
+      <version>1.6.10</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

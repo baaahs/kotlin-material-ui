@@ -1,0 +1,309 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.subroh0508.kotlinmaterialui",
+    "module": "core",
+    "version": "0.7.0-baaahs",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsLegacyApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-html-js",
+          "version": {
+            "requires": "0.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom-legacy",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-css-js",
+          "version": {
+            "requires": "1.0.0-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-extensions",
+          "version": {
+            "requires": "1.0.1-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-0.7.0-baaahs.jar",
+          "url": "core-0.7.0-baaahs.jar",
+          "size": 421658,
+          "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
+          "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
+          "sha1": "3bee517047777f6baf1657db0b9b2fca2f04fabf",
+          "md5": "019f511fabe66c024b98486afac8ded1"
+        }
+      ]
+    },
+    {
+      "name": "jsLegacyRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-html-js",
+          "version": {
+            "requires": "0.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom-legacy",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-css-js",
+          "version": {
+            "requires": "1.0.0-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-extensions",
+          "version": {
+            "requires": "1.0.1-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-0.7.0-baaahs.jar",
+          "url": "core-0.7.0-baaahs.jar",
+          "size": 421658,
+          "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
+          "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
+          "sha1": "3bee517047777f6baf1657db0b9b2fca2f04fabf",
+          "md5": "019f511fabe66c024b98486afac8ded1"
+        }
+      ]
+    },
+    {
+      "name": "commonFakeApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      }
+    },
+    {
+      "name": "jsIrApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-html-js",
+          "version": {
+            "requires": "0.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom-legacy",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-css-js",
+          "version": {
+            "requires": "1.0.0-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-extensions",
+          "version": {
+            "requires": "1.0.1-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-0.7.0-baaahs.klib",
+          "url": "core-0.7.0-baaahs.klib",
+          "size": 872397,
+          "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
+          "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",
+          "sha1": "b880a2fd60b3d436652424e5837c73c727515338",
+          "md5": "37a6d2248009a305e314808779b6222e"
+        }
+      ]
+    },
+    {
+      "name": "jsIrRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-html-js",
+          "version": {
+            "requires": "0.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-react-dom-legacy",
+          "version": {
+            "requires": "17.0.2-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-css-js",
+          "version": {
+            "requires": "1.0.0-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin-wrappers",
+          "module": "kotlin-extensions",
+          "version": {
+            "requires": "1.0.1-pre.282-kotlin-1.6.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "core-0.7.0-baaahs.klib",
+          "url": "core-0.7.0-baaahs.klib",
+          "size": 872397,
+          "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
+          "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",
+          "sha1": "b880a2fd60b3d436652424e5837c73c727515338",
+          "md5": "37a6d2248009a305e314808779b6222e"
+        }
+      ]
+    }
+  ]
+}

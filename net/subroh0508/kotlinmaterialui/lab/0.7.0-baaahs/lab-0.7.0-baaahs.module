@@ -1,0 +1,169 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.subroh0508.kotlinmaterialui",
+    "module": "lab",
+    "version": "0.7.0-baaahs",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsLegacyApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "net.subroh0508.kotlinmaterialui",
+          "module": "core",
+          "version": {
+            "requires": "0.7.0-baaahs"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lab-0.7.0-baaahs.jar",
+          "url": "lab-0.7.0-baaahs.jar",
+          "size": 66976,
+          "sha512": "5034d3b4079b80518db2db533ac4939f04c5ac82b62b7497e41cd7bc10b269954b01fdab7a7dac905865c8d3a19f6fff0a7944b23fe2b4250870f073328d93df",
+          "sha256": "97fdeb683eaab6526e11598751f8b3d2ed6d37e618efae3f544c346cf2ea0743",
+          "sha1": "c597429e33f57f1ee3e338d2a48c74d2d92802a1",
+          "md5": "6f1ac4eee1fcf11c43f9209600d16221"
+        }
+      ]
+    },
+    {
+      "name": "jsLegacyRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "net.subroh0508.kotlinmaterialui",
+          "module": "core",
+          "version": {
+            "requires": "0.7.0-baaahs"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lab-0.7.0-baaahs.jar",
+          "url": "lab-0.7.0-baaahs.jar",
+          "size": 66976,
+          "sha512": "5034d3b4079b80518db2db533ac4939f04c5ac82b62b7497e41cd7bc10b269954b01fdab7a7dac905865c8d3a19f6fff0a7944b23fe2b4250870f073328d93df",
+          "sha256": "97fdeb683eaab6526e11598751f8b3d2ed6d37e618efae3f544c346cf2ea0743",
+          "sha1": "c597429e33f57f1ee3e338d2a48c74d2d92802a1",
+          "md5": "6f1ac4eee1fcf11c43f9209600d16221"
+        }
+      ]
+    },
+    {
+      "name": "commonFakeApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      }
+    },
+    {
+      "name": "jsIrApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "net.subroh0508.kotlinmaterialui",
+          "module": "core",
+          "version": {
+            "requires": "0.7.0-baaahs"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lab-0.7.0-baaahs.klib",
+          "url": "lab-0.7.0-baaahs.klib",
+          "size": 135008,
+          "sha512": "d58af166bf8d062ef00b6f99087ec0c169febfde97d3b60a62385bc9e8d7a6fc013479bdbf46575919a952697e9e12cc3a0e629e63cc6612be3b10c372ebc8b1",
+          "sha256": "46213317a8d1320cdf879d6b2c1071d22d2f532656317c23b7390a38aadda709",
+          "sha1": "58ac5591c3cc5f7213587af1cc6fa0964e27c200",
+          "md5": "3a96a148d1f93c96a1543fc4ef4b697e"
+        }
+      ]
+    },
+    {
+      "name": "jsIrRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "net.subroh0508.kotlinmaterialui",
+          "module": "core",
+          "version": {
+            "requires": "0.7.0-baaahs"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.6.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lab-0.7.0-baaahs.klib",
+          "url": "lab-0.7.0-baaahs.klib",
+          "size": 135008,
+          "sha512": "d58af166bf8d062ef00b6f99087ec0c169febfde97d3b60a62385bc9e8d7a6fc013479bdbf46575919a952697e9e12cc3a0e629e63cc6612be3b10c372ebc8b1",
+          "sha256": "46213317a8d1320cdf879d6b2c1071d22d2f532656317c23b7390a38aadda709",
+          "sha1": "58ac5591c3cc5f7213587af1cc6fa0964e27c200",
+          "md5": "3a96a148d1f93c96a1543fc4ef4b697e"
+        }
+      ]
+    }
+  ]
+}
