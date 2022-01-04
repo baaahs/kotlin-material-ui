@@ -42,11 +42,11 @@
         {
           "name": "lab-0.7.1-baaahs.jar",
           "url": "lab-0.7.1-baaahs.jar",
-          "size": 66976,
-          "sha512": "5034d3b4079b80518db2db533ac4939f04c5ac82b62b7497e41cd7bc10b269954b01fdab7a7dac905865c8d3a19f6fff0a7944b23fe2b4250870f073328d93df",
-          "sha256": "97fdeb683eaab6526e11598751f8b3d2ed6d37e618efae3f544c346cf2ea0743",
-          "sha1": "c597429e33f57f1ee3e338d2a48c74d2d92802a1",
-          "md5": "6f1ac4eee1fcf11c43f9209600d16221"
+          "size": 66975,
+          "sha512": "bab8decab6caab740fd38f5270ef82d0627ca30a01748fabdf0a447ea0005874af07580c34f074b22042ff56e2859cc1beb989c024725befa0718daabd65f3b7",
+          "sha256": "f31d63f6cc20464ba96551856d7fb524f16895bc78355736ca67fd26efd975c5",
+          "sha1": "65c58a772987863cae1af67ad8c7530a322b1916",
+          "md5": "d08adae31cc5d9d8dbc54c24554435f8"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "lab-0.7.1-baaahs.jar",
           "url": "lab-0.7.1-baaahs.jar",
-          "size": 66976,
-          "sha512": "5034d3b4079b80518db2db533ac4939f04c5ac82b62b7497e41cd7bc10b269954b01fdab7a7dac905865c8d3a19f6fff0a7944b23fe2b4250870f073328d93df",
-          "sha256": "97fdeb683eaab6526e11598751f8b3d2ed6d37e618efae3f544c346cf2ea0743",
-          "sha1": "c597429e33f57f1ee3e338d2a48c74d2d92802a1",
-          "md5": "6f1ac4eee1fcf11c43f9209600d16221"
+          "size": 66975,
+          "sha512": "bab8decab6caab740fd38f5270ef82d0627ca30a01748fabdf0a447ea0005874af07580c34f074b22042ff56e2859cc1beb989c024725befa0718daabd65f3b7",
+          "sha256": "f31d63f6cc20464ba96551856d7fb524f16895bc78355736ca67fd26efd975c5",
+          "sha1": "65c58a772987863cae1af67ad8c7530a322b1916",
+          "md5": "d08adae31cc5d9d8dbc54c24554435f8"
         }
       ]
     },
@@ -122,10 +122,10 @@
           "name": "lab-0.7.1-baaahs.klib",
           "url": "lab-0.7.1-baaahs.klib",
           "size": 135008,
-          "sha512": "d58af166bf8d062ef00b6f99087ec0c169febfde97d3b60a62385bc9e8d7a6fc013479bdbf46575919a952697e9e12cc3a0e629e63cc6612be3b10c372ebc8b1",
-          "sha256": "46213317a8d1320cdf879d6b2c1071d22d2f532656317c23b7390a38aadda709",
-          "sha1": "58ac5591c3cc5f7213587af1cc6fa0964e27c200",
-          "md5": "3a96a148d1f93c96a1543fc4ef4b697e"
+          "sha512": "4056768e57c2d18557bf15b9144fc79edd6efc92f3598b93c938d7704fa3f588b18b831ab3b93ff70c597c8474af14ea4d914126a3361dacc234a7a9614de85a",
+          "sha256": "0010404b296516d761d6eb7a0ac54bd06a2f21d3c64470bfae15cadaff18d4e6",
+          "sha1": "a4af05b392c376454e9fec4c86b655ddd89ee701",
+          "md5": "d612be7d99788f0f8f4c2bf1975d3cb5"
         }
       ]
     },
@@ -158,10 +158,10 @@
           "name": "lab-0.7.1-baaahs.klib",
           "url": "lab-0.7.1-baaahs.klib",
           "size": 135008,
-          "sha512": "d58af166bf8d062ef00b6f99087ec0c169febfde97d3b60a62385bc9e8d7a6fc013479bdbf46575919a952697e9e12cc3a0e629e63cc6612be3b10c372ebc8b1",
-          "sha256": "46213317a8d1320cdf879d6b2c1071d22d2f532656317c23b7390a38aadda709",
-          "sha1": "58ac5591c3cc5f7213587af1cc6fa0964e27c200",
-          "md5": "3a96a148d1f93c96a1543fc4ef4b697e"
+          "sha512": "4056768e57c2d18557bf15b9144fc79edd6efc92f3598b93c938d7704fa3f588b18b831ab3b93ff70c597c8474af14ea4d914126a3361dacc234a7a9614de85a",
+          "sha256": "0010404b296516d761d6eb7a0ac54bd06a2f21d3c64470bfae15cadaff18d4e6",
+          "sha1": "a4af05b392c376454e9fec4c86b655ddd89ee701",
+          "md5": "d612be7d99788f0f8f4c2bf1975d3cb5"
         }
       ]
     }

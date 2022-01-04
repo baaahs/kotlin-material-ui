@@ -77,11 +77,11 @@
         {
           "name": "core-0.7.1-baaahs.jar",
           "url": "core-0.7.1-baaahs.jar",
-          "size": 421658,
-          "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
-          "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
-          "sha1": "3bee517047777f6baf1657db0b9b2fca2f04fabf",
-          "md5": "019f511fabe66c024b98486afac8ded1"
+          "size": 421652,
+          "sha512": "34ab502a7260a983707b0abc6e68df6490a639341ffc6fb42963c032d58b114902f7fdc31549a505eb0f5df30c5552987b31444d7f324b04f4c3fe430d48bbe2",
+          "sha256": "76c78f2bad7d90c43873fc720efba0c9bcc28f1718b684fe2b9e579daf7bfb58",
+          "sha1": "d7ea461a71ad02071d2bbcf769df895cd3880da2",
+          "md5": "f804efb94f47aa764db83313736f24c4"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "core-0.7.1-baaahs.jar",
           "url": "core-0.7.1-baaahs.jar",
-          "size": 421658,
-          "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
-          "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
-          "sha1": "3bee517047777f6baf1657db0b9b2fca2f04fabf",
-          "md5": "019f511fabe66c024b98486afac8ded1"
+          "size": 421652,
+          "sha512": "34ab502a7260a983707b0abc6e68df6490a639341ffc6fb42963c032d58b114902f7fdc31549a505eb0f5df30c5552987b31444d7f324b04f4c3fe430d48bbe2",
+          "sha256": "76c78f2bad7d90c43873fc720efba0c9bcc28f1718b684fe2b9e579daf7bfb58",
+          "sha1": "d7ea461a71ad02071d2bbcf769df895cd3880da2",
+          "md5": "f804efb94f47aa764db83313736f24c4"
         }
       ]
     },
@@ -226,11 +226,11 @@
         {
           "name": "core-0.7.1-baaahs.klib",
           "url": "core-0.7.1-baaahs.klib",
-          "size": 872397,
-          "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
-          "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",
-          "sha1": "b880a2fd60b3d436652424e5837c73c727515338",
-          "md5": "37a6d2248009a305e314808779b6222e"
+          "size": 872390,
+          "sha512": "af2d33be77503f9f27c22766c441c407737a5fefc60dbd26e7bfd1dad519fad8b0dcbeed7fa71f8872b9d798721d01156aae70e48cb3fcbaf1ab91ee22d3843c",
+          "sha256": "c8f0c946e737872d1c692898660de3455a1dd79a3c8f968b7e220ffd3d859fc2",
+          "sha1": "cba2d64c2ce5edd70ad19843fec7f1111ebdebc1",
+          "md5": "9abb3b6caab34d7f3309af8e824728d4"
         }
       ]
     },
@@ -297,11 +297,11 @@
         {
           "name": "core-0.7.1-baaahs.klib",
           "url": "core-0.7.1-baaahs.klib",
-          "size": 872397,
-          "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
-          "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",
-          "sha1": "b880a2fd60b3d436652424e5837c73c727515338",
-          "md5": "37a6d2248009a305e314808779b6222e"
+          "size": 872390,
+          "sha512": "af2d33be77503f9f27c22766c441c407737a5fefc60dbd26e7bfd1dad519fad8b0dcbeed7fa71f8872b9d798721d01156aae70e48cb3fcbaf1ab91ee22d3843c",
+          "sha256": "c8f0c946e737872d1c692898660de3455a1dd79a3c8f968b7e220ffd3d859fc2",
+          "sha1": "cba2d64c2ce5edd70ad19843fec7f1111ebdebc1",
+          "md5": "9abb3b6caab34d7f3309af8e824728d4"
         }
       ]
     }
