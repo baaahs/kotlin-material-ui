@@ -3,7 +3,7 @@
   "component": {
     "group": "net.subroh0508.kotlinmaterialui",
     "module": "core",
-    "version": "0.7.0-baaahs",
+    "version": "0.7.1-baaahs",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -75,8 +75,8 @@
       ],
       "files": [
         {
-          "name": "core-0.7.0-baaahs.jar",
-          "url": "core-0.7.0-baaahs.jar",
+          "name": "core-0.7.1-baaahs.jar",
+          "url": "core-0.7.1-baaahs.jar",
           "size": 421658,
           "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
           "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
@@ -146,8 +146,8 @@
       ],
       "files": [
         {
-          "name": "core-0.7.0-baaahs.jar",
-          "url": "core-0.7.0-baaahs.jar",
+          "name": "core-0.7.1-baaahs.jar",
+          "url": "core-0.7.1-baaahs.jar",
           "size": 421658,
           "sha512": "100123e52aab32972ab4d706c7eddee1d56d977faa4b6b3eede4ed629091d4dabecc08e1da9df3cb18e8b070b9850c55e3b503284e04d799f754dcc9b510aaae",
           "sha256": "8302056f11ba1ea96983e1f09370d15711db31cbdb10f51e42137e6d5e6c03da",
@@ -224,8 +224,8 @@
       ],
       "files": [
         {
-          "name": "core-0.7.0-baaahs.klib",
-          "url": "core-0.7.0-baaahs.klib",
+          "name": "core-0.7.1-baaahs.klib",
+          "url": "core-0.7.1-baaahs.klib",
           "size": 872397,
           "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
           "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",
@@ -295,8 +295,8 @@
       ],
       "files": [
         {
-          "name": "core-0.7.0-baaahs.klib",
-          "url": "core-0.7.0-baaahs.klib",
+          "name": "core-0.7.1-baaahs.klib",
+          "url": "core-0.7.1-baaahs.klib",
           "size": 872397,
           "sha512": "2c15003573b3069979042873a5a76df0ca6c02a34e38624023adfbfb73901c113194fdc44b8ab421fb9fa8fb4f7fbad8a9aca56406d55728b17aa71793dcd3cd",
           "sha256": "745b3380235ec80612eada088955391816082d7a169c1e664b4c0eecbb1bf518",

@@ -8,10 +8,10 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.subroh0508.kotlinmaterialui</groupId>
-  <artifactId>core</artifactId>
-  <version>0.7.0-baaahs</version>
+  <artifactId>lab</artifactId>
+  <version>0.7.1-baaahs</version>
   <packaging>pom</packaging>
-  <name>Kotlin-Material-UI</name>
+  <name>Kotlin-Material-UI/Lab</name>
   <description>Kotlin Wrapper Library of Material-UI</description>
   <url>https://github.com/subroh0508/kotlin-material-ui</url>
   <licenses>
@@ -32,39 +32,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>org.jetbrains.kotlinx</groupId>
-      <artifactId>kotlinx-html-js</artifactId>
-      <version>0.7.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin-wrappers</groupId>
-      <artifactId>kotlin-react</artifactId>
-      <version>17.0.2-pre.282-kotlin-1.6.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin-wrappers</groupId>
-      <artifactId>kotlin-react-dom</artifactId>
-      <version>17.0.2-pre.282-kotlin-1.6.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin-wrappers</groupId>
-      <artifactId>kotlin-react-dom-legacy</artifactId>
-      <version>17.0.2-pre.282-kotlin-1.6.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin-wrappers</groupId>
-      <artifactId>kotlin-css-js</artifactId>
-      <version>1.0.0-pre.282-kotlin-1.6.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin-wrappers</groupId>
-      <artifactId>kotlin-extensions</artifactId>
-      <version>1.0.1-pre.282-kotlin-1.6.10</version>
+      <groupId>net.subroh0508.kotlinmaterialui</groupId>
+      <artifactId>core</artifactId>
+      <version>0.7.1-baaahs</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
